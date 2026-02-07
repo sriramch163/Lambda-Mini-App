@@ -18,10 +18,10 @@ lambda-mini-app/
 ├── docs/
 │   └── Lambda-Mini-App.pdf
 │
-├── src/
-│   └── lambda_function.py
-│
+└── src/
+│    ├── lambda_function.py
 └── README.md
+
 
 
 

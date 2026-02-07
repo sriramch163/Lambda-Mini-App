@@ -12,14 +12,17 @@ It returns a simple message when accessed via a browser:
 
 Hello from my first Lambda mini application!
 
-
 ## 📂 Project Structure
 lambda-mini-app/
 │
+├── docs/
+│   └── Lambda-Mini-App.pdf
+│
 ├── src/
-│ └── lambda_function.py
+│   └── lambda_function.py
 │
 └── README.md
+
 
 
 ## ▶️ How to deploy (high level)
